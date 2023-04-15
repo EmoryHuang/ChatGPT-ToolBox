@@ -1,0 +1,3 @@
+gradio
+llama_index
+PyPDF2
